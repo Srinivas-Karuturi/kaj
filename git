@@ -1,5 +1,7 @@
+git init (to change the created dir inti git rep)
 git add . (it will add all the files and folders to the staging area)
 next git commit -m "info" . (it will commit all the files to the commiting area)
 git status 
-git push (it will push code into remote repositary)
-git remote add origin (used to add the remote rep)[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D"ssh link) (used to add the remote rep)
+// git push (it will push code into remote repositary)
+git remote add origin sshlink(created rep) (used to add the remote rep)[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D"ssh link) (used to add the remote rep)
+git push --set -upstream
