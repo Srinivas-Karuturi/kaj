@@ -1,0 +1,3 @@
+git add . (it will add all the files and folders to the staging area)
+next git commit -m "info" . (it will commit all the files to the commiting area)
+git status 
